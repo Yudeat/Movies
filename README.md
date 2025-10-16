@@ -42,7 +42,7 @@ Hamburger menu closes when clicking outside or using the close button.
 
 Demo
 
-Example: https://movies-app.web.app
+Example: [https://movies-app.web.app](https://auth-5d9d7.web.app/)
 
 Technologies Used
 
