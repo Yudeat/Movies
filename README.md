@@ -41,8 +41,7 @@ Mobile-friendly responsive UI.
 Hamburger menu closes when clicking outside or using the close button.
 
 Demo
-
-Example: https://auth-5d9d7.web.app/
+ https://auth-5d9d7.web.app/
 
 Technologies Used
 
@@ -58,7 +57,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/movies-app.git
+git clone https://github.com/Yudeat/movies-app.git
 cd movies-app
 
 
