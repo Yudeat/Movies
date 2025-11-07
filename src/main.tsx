@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 import './index.css';
 import App from './App.tsx';
-import MovieDetail from './component/MovieDetail.tsx'; // 👈 Make sure this path matches your folder
+import MovieDetail from './component/MovieDetail.tsx';
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
